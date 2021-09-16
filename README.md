@@ -29,9 +29,10 @@
 <img src="https://icons.iconarchive.com/icons/saki/nuoveXT/48/Apps-eclipse-icon.png"/>
 <img width="48px" src="https://github.com/mlankoff/mlankoff/blob/main/unity_icon_136074.svg" />
 <img src="https://img.icons8.com/color/48/000000/gimp.png"/>
-
   
 
-  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlankoff&layout=compact)
+  
+  
 [linkedin]: https://www.linkedin.com/in/marcin-lankoff/
