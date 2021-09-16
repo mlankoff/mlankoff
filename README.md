@@ -1,5 +1,5 @@
 ## Hi there, I'm Marcin 👋
-### I'm a Husband, Developer, and a guy with million creative ideas!!
+### I'm a Husband, Developer, and a guy with million creative ideas from Poland!!
 
 - 🌱 I’m currently learning C#, Java, Spring and Hibernate, but I'm interested in all technology
 - ⚡ Fun fact: I love to draw, help others by making game assets, always improve / optimize everything (including myself)
